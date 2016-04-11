@@ -1,6 +1,8 @@
 Hky
 ===========================
 
+[![Build Status](https://travis-ci.org/BakaBBQ/hky.svg?branch=master)](https://travis-ci.org/BakaBBQ/hky)
+
 Hky (Hooky) is a 25-loc library with 3 methods extracted to help monkey-patching.
 
 ## Synopsis
