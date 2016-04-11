@@ -36,8 +36,7 @@ end
 
 ## Intro
 
-I am sure this is probably implemented many times. Yet during
-a cold school day where I did not have internet, I decided to roll my own.
+I am sure this is probably implemented many times. Yet during a long day where I have no internet access and I need this. I decided to roll my own.
 
 It is fairly simple and should work, and it is a nice way to work around
 aliasing everywhere.
